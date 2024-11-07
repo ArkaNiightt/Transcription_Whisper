@@ -22,8 +22,7 @@ Este projeto é um script Python para transcrição de arquivos de áudio usando
 1. Clone o repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/ArkaNiightt/Transcription_Whisper.git
    ```
 
 2. Crie um ambiente virtual e ative-o:
